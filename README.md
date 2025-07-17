@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-**Skilled Software and DevOps Engineer with 6+ years of experience** in software development, DevOps, and team leadership. I specialize in designing and implementing scalable, efficient, and secure applications, with a proven track record of improving system performance and user satisfaction.
+**Skilled Software and DevOps Engineer with 7+ years of experience** in software development, DevOps, and team leadership. I specialize in designing and implementing scalable, efficient, and secure applications, with a proven track record of improving system performance and user satisfaction.
 
 Notable achievements include:
 - Delivering impactful solutions such as a merchant-facing platform used by 10,000+ users daily.
