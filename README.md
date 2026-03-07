@@ -95,9 +95,6 @@ _Bachelor of Engineering in Electrical/Electronics Engineering_ (2017)
 - **[Orion](https://orion.interswitchng.com/):** Transaction routing mechanisms.  
   _Tech: C#/.Net Framework, SQL Server, Redis, MongoDB, Kafka_
 
-- **House of Books:** School management portal for process streamlining.  
-  _Tech: C#/.Net Core, SQL Server, MSSQL, Kubernetes, Docker, Redis_
-
 - **Workflow:** Job/task management application.  
   _Tech: Java/SpringBoot, SQL Server, ReactJs_
 
