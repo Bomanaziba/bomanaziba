@@ -1,124 +1,133 @@
-# Bomanaziba Ogoni
+# Hi there 👋 I'm Bomanaziba Ogoni
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bomanazibaogoni-blue?logo=linkedin)](https://linkedin.com/in/bomanazibaogoni)
-[![GitHub](https://img.shields.io/badge/GitHub-bomanaziba-black?logo=github)](https://github.com/bomanaziba)
-[![Email](https://img.shields.io/badge/Email-bomana.ogoni@gmail.com-red?logo=gmail)](mailto:bomana.ogoni@gmail.com)
+### Senior Software & DevOps Engineer | Backend Specialist | Cloud & Distributed Systems Enthusiast
 
-## 👋 About Me
-
-**Skilled Software and DevOps Engineer with 7+ years of experience** in software development, DevOps, and team leadership. I specialize in designing and implementing scalable, efficient, and secure applications, with a proven track record of improving system performance and user satisfaction.
-
-Notable achievements include:
-- Delivering impactful solutions such as a merchant-facing platform used by 10,000+ users daily.
-- Optimizing transaction success rates by 33%.
-- Proficient in Kubernetes, Docker, and CI/CD tools for enterprise-level application deployment.
-
-I am passionate about innovation, machine learning, and cutting-edge technologies.
-
----
-
-## 💼 Work Experience
-
-### INTERSWITCH GROUP, Lagos, Nigeria
-#### Software Engineer, API and Platform (Feb 2021 – Present)
-- Improved transaction processing by 33% through data-driven development.
-- Created new financial transaction types, increasing success rate to 98% (impacting 1M+ monthly transactions).
-- Built a merchant-facing application for 10,000+ merchants.
-- Designed a merchant settlement commission system, improving accuracy by 20%.
-- Developed a circuit breaker pattern to manage downstream services, reducing downtime by 15%.
-- Enhanced voucher services for bulk generation, increasing efficiency by 25%.
-- Added endpoint for merchants to fund prepaid cards, reducing processing times by 30%.
-- Mapped legacy payment codes to modern equivalents for seamless compatibility.
-
-#### DevOps Engineer (Oct 2021 – May 2022)
-- Designed/deployed CI/CD pipelines, reducing deployment time by 40%.
-- Configured Spinnaker pipelines for build automation.
-- Automated Jenkins-Spinnaker integration, reducing manual efforts by 50%.
-- Deployed production applications and mentored 5 new DevOps engineers.
-
-#### Software Engineer (Dec 2019 – Feb 2021)
-- Developed APIs for user retrieval, reducing response times by 25%.
-- Created endpoints for payment processing (500k+ monthly transactions).
-- Implemented voucher features, increasing adoption by 20%.
-- Enabled merchant promo code management, boosting engagement by 30%.
-
-### LIVING FAITH CHURCH, ICTG (Non-Profit)
-**Software Engineer (Volunteer) (Dec 2020 – Present)**
-- Revamped service request portal for 1,000+ volunteers.
-- Built a portal for church choristers to manage activities.
-- Designed/deployed a monitoring dashboard for ICTG applications.
-- Mentored teens and church members in software engineering.
-
-### AUTOMATA ASSOCIATES LIMITED, Lagos, Nigeria
-**Software Developer (Dec 2017 – Dec 2019)**
-- Led team to develop HR Management Software for 50+ SMEs.
-- Built ads management platform boosting ad efficiency by 40%.
-- Developed scalable HR solutions, reducing manual processes by 30%.
+<p align="left">
+  <a href="https://linkedin.com/in/bomanazibaogoni">
+    <img src="https://img.shields.io/badge/LinkedIn-Bomanaziba_Ogoni-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:bomana.ogoni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/bomanaziba">
+    <img src="https://img.shields.io/badge/GitHub-bomanaziba-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-**Niger Delta University, Yenagoa, Bayelsa**  
-_Bachelor of Engineering in Electrical/Electronics Engineering_ (2017)
+I am a Software and DevOps Engineer with 7+ years of experience building scalable, secure, and high-performance enterprise systems across fintech, infrastructure, automation, and cloud-native platforms.
 
----
+I specialize in:
 
-## 🛠️ Technical Skills
+- Backend Engineering with C#/.NET
+- Distributed Systems & Microservices
+- Kubernetes & DevOps Engineering
+- API Design & Platform Architecture
+- CI/CD Automation
+- High-throughput Transaction Systems
 
-- **Programming Languages:** C#, Java, Python, JavaScript, SQL, HTML, CSS
-- **Frameworks/Tools:** .NET Core, Spring Boot, ReactJS, MVC, .NET Framework
-- **Databases:** MSSQL, MySQL, MongoDB, Redis
-- **DevOps Tools:** Jenkins, Kubernetes, Docker, Chef, Spinnaker
-- **Other:** Design Patterns, SOLID, REST, SOAP, Kafka, Visual Studio, Git, Jira, Project Management
+I enjoy solving complex engineering problems, designing resilient systems, and building products that impact millions of users.
 
----
-
-## 👑 Leadership
-
-- **INTERSWITCH GROUP (Dec 2023 – Present):** Team Lead in digital payment ecosystem.
-- **AUTOMATA ASSOCIATES LIMITED (Sep 2018 – Dec 2019):** Team Lead for HR software projects.
-
----
-
-## 🚀 Project Highlights
-
-- **[Quickteller](https://qucikteller.com):** API enhancements & transaction optimization.  
-  _Tech: C#/.Net Core, SQL Server, Kubernetes, Docker, Redis, MongoDB, Kafka_
-
-- **[Quickteller PayDirect](https://paydirectonline.com):** Payment collections, monitoring, reporting.  
-  _Tech: C#/.Net Framework, SQL Server, Redis, MongoDB, Kafka_
-
-- **[Quikteller SVA](https://sva.quickteller.com):** Reporting solution.  
-  _Tech: C#/.Net Core, SQL Server, Kubernetes, Docker, Redis, MongoDB, Kafka_
-
-- **[Orion](https://orion.interswitchng.com/):** Transaction routing mechanisms.  
-  _Tech: C#/.Net Framework, SQL Server, Redis, MongoDB, Kafka_
-
-- **Workflow:** Job/task management application.  
-  _Tech: Java/SpringBoot, SQL Server, ReactJs_
-
-- **Tax Computation:** Corporate tax automation.  
-  _Tech: C#/.Net Core, SQL Server, ReactJs_
-
-- **HR Management Software:** End-to-end HR operations for SMEs.  
-  _Tech: C#/.Net Framework, MVC, EntityFramework, SQL Server, Redis, MongoDB, Kafka_
-
-- **Ads Management Software:** Automated ads for multiple media.  
-  _Tech: C#/.Net Framework, MVC, EntityFramework, SQL Server, Redis, MongoDB, Kafka_
+Currently exploring:
+- AI Engineering & LLMs
+- Machine Learning & TensorFlow
+- System Design at Scale
+- Cloud Infrastructure Automation
+- Fintech Architecture
 
 ---
 
-## 🏆 Awards & Certifications
+## 🛠️ Tech Stack
 
-- **Lean Six Sigma Yellow Belt Certificate (2019–Present):** Empowered problem-solving skills for positive change.
-- **Agbami Medical and Engineering Professionals Scholarship Award (2013–2017):** Awarded for academic excellence in engineering.
+### Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+
+### Backend & Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
+
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
 ---
 
-## 🌱 Interests
+## 💼 Professional Experience
 
-- **Machine Learning/Deep Learning** (exploring TensorFlow)
-- **Electric Cars & Robotics** (keen on sustainable tech innovation)
-- **Lawn Tennis** (competitive and recreational player)
-- **History** (focus on African and global events)
+### Senior Software Engineer — Interswitch Group
+📍 Lagos, Nigeria | Feb 2021 – Present
+
+- Improved transaction success rate by 33% through platform optimization.
+- Developed merchant-facing systems serving 10,000+ daily users.
+- Built resilient transaction-routing and settlement systems.
+- Implemented circuit breaker patterns to improve platform reliability.
+- Enhanced prepaid card funding and voucher processing systems.
+- Contributed to systems handling millions of monthly transactions.
+
+### DevOps Engineer — Interswitch Group
+📍 Oct 2021 – May 2022
+
+- Designed CI/CD pipelines reducing deployment time by 40%.
+- Automated Jenkins and Spinnaker workflows.
+- Supported Kubernetes-based production deployments.
+- Mentored junior DevOps engineers and improved deployment processes.
+
+### Software Developer — Automata Associates
+📍 Dec 2017 – Dec 2019
+
+- Led development of HR solutions for SMEs.
+- Built workflow and automation systems.
+- Developed scalable enterprise management software.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Payment & Fintech Systems
+- Merchant platforms
+- Transaction routing systems
+- Settlement engines
+- Voucher management systems
+- Payment collections infrastructure
+
+### 🔹 Enterprise Applications
+- HR Management Systems
+- Workflow Automation Platforms
+- Reporting & Monitoring Dashboards
+- Ads Management Platforms
+
+### 🔹 Current Personal Projects
+- School Management ERP Platform
+- AI-assisted Forex Trading Systems
+- Cloud-native Authentication Services
+- Distributed Caching & Redis Infrastructure
+
+---
+
+## 📚 Current Focus
+
+```yaml
+- Distributed Systems
+- Cloud Architecture
+- AI & LLM Engineering
+- DevOps Automation
+- Financial Infrastructure
+- System Design
+- High Availability Systems
