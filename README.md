@@ -1,6 +1,15 @@
-# Hi there 👋 I'm Bomanaziba Ogoni
+# Hi 👋 I'm Bomanaziba Ogoni
 
-### Senior Software & DevOps Engineer | Backend Specialist | Cloud & Distributed Systems Enthusiast
+### Senior Backend Engineer • Distributed Systems • FinTech Infrastructure • DevOps
+
+I build scalable backend systems, distributed platforms, and cloud-native infrastructure with a strong focus on reliability, performance, and financial-grade correctness.
+
+Currently:
+- Architecting multi-tenant SaaS systems
+- Building fintech infrastructure
+- Publishing reusable .NET tooling
+- Exploring AI-assisted engineering workflows
+- Scaling cloud-native backend platformst
 
 <p align="left">
   <a href="https://linkedin.com/in/bomanazibaogoni">
@@ -97,27 +106,102 @@ Currently exploring:
 - Developed scalable enterprise management software.
 
 ---
+## 🚀 Featured Engineering Projects
 
-## 🚀 Featured Projects
+### 🏫 House of Books ERP
+**Lead Backend Engineer / System Architect**
 
-### 🔹 Payment & Fintech Systems
-- Merchant platforms
-- Transaction routing systems
-- Settlement engines
-- Voucher management systems
-- Payment collections infrastructure
+Multi-tenant SaaS ERP platform for schools and educational institutions.
 
-### 🔹 Enterprise Applications
-- HR Management Systems
-- Workflow Automation Platforms
-- Reporting & Monitoring Dashboards
-- Ads Management Platforms
+#### Highlights
+- Architected tenant-isolated SaaS infrastructure
+- Built financial management & fee tracking systems
+- Designed RBAC authorization across multiple user roles
+- Implemented Redis distributed caching reducing DB load by ~40%
+- Optimized SQL reporting pipelines reducing report generation time by ~60%
+- Built scalable APIs with ACID-compliant transactional consistency
+- Designed modular service boundaries for future microservice extraction
 
-### 🔹 Current Personal Projects
-- School Management ERP Platform
-- AI-assisted Forex Trading Systems
-- Cloud-native Authentication Services
-- Distributed Caching & Redis Infrastructure
+#### Stack
+`C#` `ASP.NET Core` `SQL Server` `Redis` `ReactJS` `RBAC` `Microservices`
+
+---
+
+### 💳 FinTech & Payment Infrastructure
+**Interswitch Group**
+
+Enterprise payment systems handling **1M+ monthly transactions**.
+
+#### Contributions
+- Improved transaction success rate by 15%
+- Reduced API latency by 30%
+- Implemented circuit breaker patterns for resiliency
+- Built event-driven transaction pipelines with Kafka
+- Developed settlement & reconciliation systems
+- Improved fault tolerance across distributed services
+
+#### Stack
+`.NET Core` `Kafka` `Redis` `SQL Server` `Kubernetes` `Docker`
+
+---
+
+### 📦 AlphaX Extensions Toolkit
+**Open Source | NuGet Package Maintainer**
+
+Reusable backend engineering toolkit published as modular NuGet packages.
+
+#### Features
+- High-performance object transformation utilities
+- XML & JSON serialization helpers
+- Dictionary & string extension libraries
+- Generic utility abstractions
+- Runtime type handling utilities
+
+#### Engineering Goals
+- Reduce repeated boilerplate
+- Standardize backend operations
+- Improve developer productivity
+- Encourage modular package adoption
+
+#### Stack
+`C#` `.NET` `NuGet` `OSS`
+
+---
+
+## 🧠 Engineering Interests
+
+I enjoy building:
+- Distributed Systems
+- High-Availability Architectures
+- Event-Driven Systems
+- FinTech Infrastructure
+- Multi-tenant SaaS Platforms
+- Backend Performance Optimization
+- AI-Augmented Developer Workflows
+- Developer Tooling & Reusable Frameworks
+
+I’m particularly interested in the intersection of:
+> AI + Infrastructure + Financial Systems
+
+---
+
+## 🌍 Open Source
+
+I actively build reusable backend tooling and engineering utilities.
+
+### AlphaX Extensions Toolkit
+A growing collection of reusable .NET extension libraries published as NuGet packages.
+
+Focus areas:
+- Serialization
+- Object Mapping
+- HTTP Helpers
+- Generic Extensions
+- String Utilities
+- Runtime Type Operations
+
+🔗 Repository:
+https://github.com/Bomanaziba/AlphaXExtensionsToolkit
 
 ---
 
